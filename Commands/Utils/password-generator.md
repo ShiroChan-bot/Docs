@@ -14,11 +14,11 @@
 - **Tips:**
   - _Split argument message using_ `|`
   - _Use_ `true`/`false`
-    - translate `Length`**|**`Numbers`**|**`Symbols`**|**`Lowercase`**|**`Uppercase`
-      - Length*
-      - Numbers*
-      - Symbols*
-      - Lowercase*
-      - Uppercase*
+  - _Options_ `Length`**|**`Numbers`**|**`Symbols`**|**`Lowercase`**|**`Uppercase`
+    - Length*
+    - Numbers*
+    - Symbols*
+    - Lowercase*
+    - Uppercase*
 - **Example:**
   - /passwordgenerator 20|true|false|true|true
