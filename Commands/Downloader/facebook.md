@@ -13,4 +13,4 @@
   - _Options_ `Url`
     - Url*
 - **Example:**
-  - /facebook https://facebook.com/userId/videos/postId/..../
+  - /facebook https://www.facebook.com/..../
