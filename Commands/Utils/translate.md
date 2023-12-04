@@ -14,8 +14,6 @@
   - translate `Language`**|**`Word`
       - Language*
       - Word*
-<br>
-
 - **Example:**
   - /translate en|Hello World
 
