@@ -5,18 +5,19 @@
 </h3>
 
 ------
-### Categories
-> Utils
-
-### How To Use
-> _Split argument message using_ `|`<br/><br/>
-> **Example:**<br/>
-> /translate `Language`**|**`Word`<br/>
-> /translate en|Hello World
-
 ### Available Aliases
 - /tsl
 - /tl
+
+### How To Use
+- _Split argument message using_ `|`
+  - translate `Language`**|**`Word`
+      - Language*
+      - Word*
+<br>
+
+- **Example:**
+  - /translate en|Hello World
 
 ### Available Languages
 - `af`: Afrikaans
