@@ -12,9 +12,9 @@
 ### How To Use
 - **Tips:**
   - _Split argument message using_ `|`
-    - translate `Language`**|**`Word`
-      - Language*
-      - Word*
+  - _Options_ `Language`**|**`Word`
+    - Language*
+    - Word*
 - **Example:**
   - /translate en|Hello World
 
