@@ -10,8 +10,9 @@
 - /tl
 
 ### How To Use
-- _Split argument message using_ `|`
-  - translate `Language`**|**`Word`
+- **Tips:**
+  - _Split argument message using_ `|`
+    - translate `Language`**|**`Word`
       - Language*
       - Word*
 - **Example:**
